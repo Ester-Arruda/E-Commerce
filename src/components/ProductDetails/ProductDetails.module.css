@@ -1,0 +1,110 @@
+.containerSection {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  padding: 30px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: #F8F8F8;
+}
+
+.containerImgProduct {
+  grid-area: imgProduct;
+}
+
+.imgProduct {
+  max-height: 450px;
+  min-width: 300px;
+  height: 100%;
+  width: 100%;
+  display: block;
+  object-fit: contain;
+  object-position: center;
+}
+
+.content {
+  grid-area: content;
+}
+
+.boxTitleProduct {
+  padding: 8px;
+}
+
+.titleProduct {
+   font-family: "Roboto", sans-serif;
+   font-size: 1.3em;
+   color: #494949
+}
+
+.boxDescriptionProduct {
+  padding: 20px 8px;
+}
+
+.descriptionProduct {
+   font-family: "Roboto", sans-serif;
+   color: #494949;
+   font-size: 1em;
+}
+
+.boxPriceProduct {
+  padding: 16px 8px 0px 8px;
+}
+
+.priceProduct {
+  font-family: "Roboto", sans-serif;
+   color: #494949;
+   font-size: 2em;
+}
+
+/*CARROSSEL*/
+.carouselContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.carousel {
+  display: flex;
+  overflow: hidden;
+}
+
+.carouselItem {
+  flex: 0 0 25%;
+  box-sizing: border-box;
+  padding: 8px;
+}
+
+.img {
+  width: 100%;
+  height: auto;
+}
+
+.navigationButtons {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px;
+}
+
+.button {
+  color: #EE4D2D;
+  padding: 10px 20px;
+  background-color: #FFEEE8;
+  border: 1px solid #EE4D2D;
+}
+
+@media (min-width: 765px) {
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-template-areas:"imgProduct content";
+    max-width: 1300px;
+  }
+
+  .imgProduct {
+    max-width: 450px;
+
+  }
+}

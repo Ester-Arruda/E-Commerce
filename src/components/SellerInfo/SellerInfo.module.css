@@ -1,0 +1,34 @@
+.containerSection {
+  display: flex;
+  justify-content: center;
+  padding: 0 30px 30px 30px;
+}
+
+.container {
+  background-color: #F8F8F8;
+  padding: 20px;
+  max-width: 1300px;
+  width: 100%;
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+.seller { 
+   font-family: "Roboto", sans-serif;
+   font-size: 1em;
+   color: #494949
+}
+
+.containerSeller {
+  display: flex;
+  align-items: center;
+}
+
+@media (min-width: 765px) {
+  .container {
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas:
+      "name email phone evaluation"
+  }
+}

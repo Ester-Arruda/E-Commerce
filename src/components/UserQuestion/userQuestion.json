@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Lucas Oliveira",
+    "date": "2011-07-13T22:00:00-0300",
+    "question": "Como faço para limpar este produto?",
+    "answer": "Recomendamos usar um pano úmido e macio para limpar. Evite o uso de produtos químicos abrasivos."
+  },
+  {
+    "id": 2,
+    "name": "Amanda Santos",
+    "date": "2011-07-14T22:30:00-0300",
+    "question": "Este produto tem garantia?",
+    "answer": "Sim, oferecemos garantia de 1 ano para este produto. Consulte o manual para mais detalhes."
+  },
+  {
+    "id": 3,
+    "name": "Carlos Silva",
+    "date": "2011-07-15T23:00:00-0300",
+    "question": "Qual é o prazo de entrega?",
+    "answer": "O prazo de entrega pode variar de acordo com a localização. Consulte a página de checkout para obter informações precisas."
+  },
+  {
+    "id": 4,
+    "name": "Fernanda Lima",
+    "date": "2011-07-16T23:30:00-0300",
+    "question": "Este produto funciona em 110v ou 220v?",
+    "answer": "Este produto é bivolt, funciona tanto em 110v quanto em 220v."
+  },
+  {
+    "id": 5,
+    "name": "Ricardo Souza",
+    "date": "2011-07-17T00:00:00-0300",
+    "question": "Posso devolver o produto se não estiver satisfeito?",
+    "answer": "Sim, aceitamos devoluções dentro de 30 dias da compra. Entre em contato conosco para obter instruções."
+  }
+]

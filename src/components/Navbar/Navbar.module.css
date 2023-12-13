@@ -1,0 +1,98 @@
+.header {
+  background-color: #FF6633;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  max-width: 1440px;
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar {
+  display: flex;
+  justify-content: end;
+  padding: 8px;
+  flex-direction: column;
+}
+
+.list {
+  display: flex;
+  gap: 8px;
+}
+
+.link {
+  color: #ffffff;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+}
+
+.containerLogo {
+  display: flex;
+  padding: 8px;
+  justify-content: space-between;
+  align-items: center;
+  gap: 4vw;
+  flex-direction: column;
+}
+
+.boxBrandLogo {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+  width: 70px;
+  height: 70px;
+}
+
+.brand {
+  font-family: "Roboto", sans-serif;
+  color: #ffffff;
+}
+
+.containerSearch {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search {
+  width: 50vw;
+  height: 45px;
+  border: 1px solid #ffffff;
+  padding: 0 8px;
+}
+
+svg.iconSearch {
+  font-size: 2.813em;
+  color: #ffffff;
+  border: 1px solid #ffffff;
+  padding: 5px 10px;
+  width: 75px;
+  cursor: pointer;
+}
+
+svg.iconSearch:hover {
+  background-color: #F7916D;
+}
+
+svg.iconShopping {
+  font-size: 2em;
+  color: #ffffff;
+  cursor: pointer;
+  margin-left: 4vw;
+}
+
+@media (min-width: 768px) {
+  .navbar {
+    flex-direction: row;
+  }
+
+  .containerLogo {
+    flex-direction: row;
+  }
+}

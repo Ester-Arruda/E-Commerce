@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "João Silva",
+    "email": "joao_silva@gmail.com",
+    "phone": "11987654321",
+    "evaluation": 4
+  },
+  {
+    "id": 2,
+    "name": "Maria Souza",
+    "email": "maria_souza@gmail.com",
+    "phone": "11984561239",
+    "evaluation": 3
+  },
+  {
+    "id": 3,
+    "name": "Carlos Santos",
+    "email": "carlos_santos@gmail.com",
+    "phone": "11973215698",
+    "evaluation": 5
+  },
+  {
+    "id": 4,
+    "name": "Ana Oliveira",
+    "email": "ana_oliveira@gmail.com",
+    "phone": "11998765432",
+    "evaluation": 2
+  },
+  {
+    "id": 5,
+    "name": "Pedro Lima",
+    "email": "pedro_lima@gmail.com",
+    "phone": "11987654309",
+    "evaluation": 1
+  }
+]
+

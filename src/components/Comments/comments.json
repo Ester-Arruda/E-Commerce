@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Ana Oliveira",
+    "date": "2011-07-13T22:00:00-0300",
+    "message": "Maravilhoso! A entrega foi rápida e o produto parece ser de excelente qualidade.",
+    "evaluation": 5
+  },
+  {
+    "id": 2,
+    "name": "Carlos Santos",
+    "date": "2011-07-13T22:00:00-0300",
+    "message": "Produto excelente! Estou muito satisfeito com a compra.",
+    "evaluation": 4
+  },
+  {
+    "id": 3,
+    "name": "Lucia Lima",
+    "date": "2011-07-13T22:00:00-0300",
+    "message": "Entrega super rápida, mas o produto poderia ser melhor.",
+    "evaluation": 3
+  },
+  {
+    "id": 4,
+    "name": "Pedro Souza",
+    "date": "2011-07-13T22:00:00-0300",
+    "message": "Boa qualidade, mas a embalagem poderia ser mais resistente.",
+    "evaluation": 4
+  },
+  {
+    "id": 5,
+    "name": "Mariana Silva",
+    "date": "2011-07-13T22:00:00-0300",
+    "message": "Produto atendeu às expectativas. Recomendo!",
+    "evaluation": 5
+  }
+]

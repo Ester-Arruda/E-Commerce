@@ -1,0 +1,71 @@
+.containerSection {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 30px 30px 30px;
+}
+
+.containerProduct {
+  display: flex;
+  flex-direction: column;
+  max-width: 1300px;
+  width: 100%;
+}
+
+.boxTitle {
+  width: 100%;
+}
+
+.title {
+  font-family: "Roboto", sans-serif;
+  color: #494949;
+  padding-bottom: 28px;
+}
+
+.containerGrid {
+  justify-items: center;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(155px, 1fr));
+  gap: 8px;
+  padding: 0;
+  margin: 0;
+  max-width: 1300px;
+  width: 100%;
+  background-color: transparent;
+}
+
+.containerItem {
+  background-color: #F8F8F8;
+  width: 155px;
+}
+
+.imgRelated {
+  width: 155px;
+  height: 135px;
+}
+
+.nameRelated {
+  font-family: "Roboto", sans-serif;
+  font-size: .8em;
+  color: black;
+  padding: 3px 3px;
+  width: 135px;
+}
+
+.priceRelated {
+  font-family: "Roboto", sans-serif;
+  font-size: .8em;
+  color: black;
+  width: 135px;
+  padding: 3px 3px;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+p {
+  word-wrap: break-word;
+}
+
+.containerSection {
+  display: flex;
+  justify-content: center;
+  padding: 0 30px 30px 30px;
+}
+
+.container {
+  background-color: #F8F8F8;
+  padding: 20px;
+  max-width: 1300px;
+  width: 100%;
+}
+
+.title {
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+  color: #494949;
+  padding-bottom: 8px;
+}
+
+.lastQuestions {
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+  color: #494949;
+  margin: 8px 0;
+}
+
+.containerAsk {
+  box-shadow: 2px 0px 4px 0px #CCC8C7;
+  background-color: #F8F8F8;
+  padding: 20px;
+  max-width: 1300px;
+  width: 100%;
+  margin: 8px;
+}
+
+.boxName {
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+  color: #494949;
+}
+
+.boxDate {
+  font-family: "Roboto", sans-serif;
+  font-size: .75em;
+  color: #494949;
+}
+
+.boxQuestion {
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+  color: #494949;
+  font-weight: bold;
+  margin: 8px 0;
+}
+
+.boxAnswer {
+  font-family: "Roboto", sans-serif;
+  font-size: 1em;
+  color: #494949;
+  background-color: #ffffff;
+  margin: 8px 0;
+  padding: 8px;
+  border-radius: 8px;
+}

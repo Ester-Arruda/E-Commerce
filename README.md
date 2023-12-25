@@ -1,17 +1,30 @@
-## Running React on Repl.it
+# E-Commerce React App
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+Bem-vindo, este projeto E-Commerce, desenvolvido como parte de uma disciplina acadêmica, é uma aplicação web React que simula um ambiente de comércio eletrônico com um design responsivo e Mobile-First.
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
+## Características do Projeto
 
-Using the two in conjunction is one of the fastest ways to build a web app.
+## Características do Projeto
 
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
+- **Layout e Estrutura:** Inclui cabeçalho, menu principal, conteúdo de produto, informações do vendedor, comentários e perguntas de usuários, e produtos relacionados.
+- **Detalhes do Produto:** Apresenta nome, imagem, descrição, preço e nota (0-5).
+- **Informações do Vendedor:** Mostra nome, e-mail, telefone e nota (0-5).
+- **Comentários de Usuários:** Lista de comentários com nome do usuário, data, mensagem e nota.
+- **Perguntas de Usuários:** Lista de perguntas com nome do usuário, data, pergunta e resposta.
+- **Produtos Relacionados:** Exibe uma lista de produtos com nome, imagem e preço.
 
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
+## Executando o Projeto
 
-### Typescript
+O projeto utiliza React e Vite para um desenvolvimento rápido e eficiente.
 
-Just rename any file from `.jsx` to `.tsx`. You can also try our [TypeScript Template](https://replit.com/@replit/React-TypeScript)
+1. Clique em 'Run' para iniciar a aplicação.
+2. Edite `App.jsx` e veja as atualizações ao vivo.
+3. O script de desenvolvimento é executado por padrão no Repl.it, mas você pode configurá-lo conforme necessário.
+
+Para mais informações sobre Vite, consulte a [documentação do Vite](link-para-documentação-do-vite).
+
+## Typescript
+
+Transforme arquivos de `.jsx` para `.tsx` para integrar o TypeScript.
+
+Este projeto exemplifica a implementação de uma aplicação E-Commerce moderna, com foco na experiência do usuário e design responsivo.

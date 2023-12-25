@@ -4,8 +4,6 @@ Bem-vindo, este projeto E-Commerce, desenvolvido como parte de uma disciplina ac
 
 ## Características do Projeto
 
-## Características do Projeto
-
 - **Layout e Estrutura:** Inclui cabeçalho, menu principal, conteúdo de produto, informações do vendedor, comentários e perguntas de usuários, e produtos relacionados.
 - **Detalhes do Produto:** Apresenta nome, imagem, descrição, preço e nota (0-5).
 - **Informações do Vendedor:** Mostra nome, e-mail, telefone e nota (0-5).

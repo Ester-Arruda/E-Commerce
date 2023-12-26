@@ -1,6 +1,6 @@
 # E-Commerce React App
 
-Bem-vindo, este projeto E-Commerce, desenvolvido como parte de uma disciplina acadêmica, é uma aplicação web React que simula um ambiente de comércio eletrônico com um design responsivo e Mobile-First.
+Bem-vindo, este projeto foi desenvolvido como parte de uma avaliação para uma disciplina acadêmica, é uma aplicação web React que simula um ambiente de comércio eletrônico com um design responsivo e Mobile-First.
 Veja a interface [aqui](https://mfuir-at-03-infnet-grlads01c2-m1-l1-30.infnet-grlads01c2-m1-l1.repl.co/).
 
 ## Características do Projeto
